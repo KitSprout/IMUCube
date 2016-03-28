@@ -6,6 +6,7 @@
 
 Description
 ========
+IMUCube 是一個 IMU / LED 的開發套件，由 STM32F103T8(微控制器)、MPU6500(三軸加速度計、三軸陀螺儀)、WS2812B(One-Wire RGB888 LED) 組成，內部裝有鋰電池與開關，可以獨立供電，並預留了一個 ADC 來檢測電池電壓，另外引出 UART 與 SWD，方便針對 IMU 與 STM32 做開發、除錯，整體體積為 25.4 * 25.4 * 25.4 mm，上面共有 54 顆 LED，每個 LED 都是獨立可控的。
 
 License
 ========
