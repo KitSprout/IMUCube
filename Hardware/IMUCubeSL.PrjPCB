@@ -53,7 +53,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SHITWRRA
+DocumentUniqueId=KXWJTMSK
 
 [Document2]
 DocumentPath=IMUCubeSL_B_Pcb.PcbDoc
@@ -70,7 +70,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=CXAIKDER
+DocumentUniqueId=BAJDKATH
 
 [Document3]
 DocumentPath=IMUCubeSL_C_Pcb.PcbDoc
@@ -87,9 +87,43 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BAJDKATH
+DocumentUniqueId=SHITWRRA
 
 [Document4]
+DocumentPath=IMUCubeSL_D_Pcb.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KXWJTMSK
+
+[Document5]
+DocumentPath=IMUCubeSL_E_Pcb.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CXAIKDER
+
+[Document6]
 DocumentPath=IMUCubeSL_Sch.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
