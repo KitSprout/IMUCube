@@ -1,0 +1,4 @@
+Flash: 108 kB (0x1B000 bytes).
+RAM: 4.95 kB (0x13C8 bytes) (minimum required memory).
+
+Change IROM1 Start to 0x1B000 (s130) or 0x1C000 (s132).
